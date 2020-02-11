@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 1: March 01, 2020
+
+**Today's Progress:**
+
+**Thoughts:** 
+
+**Link to Work:**
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
