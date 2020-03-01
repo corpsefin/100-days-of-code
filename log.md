@@ -4,7 +4,7 @@
 
 **Today's Progress:** Continued to make my ElectronJS Pomodoro App, playing around with string functions. making addeventlistener function so that I don't have to make six different eventlistener functions for each button. Probably the 'hard way' of doing things, but I want to make things the way I haven't done ever before.
 
-**Thoughts:** HTML input type 'time' uses strings as value apparently, got the venetlistener thing to work, it's ugly af but it works like I planned. Struggling bit with the logic of making the break timer, but hey, struggling helps.
+**Thoughts:** HTML input type 'time' uses strings as value apparently, got the venetlistener thing to work, it's ugly af but it works like I planned. Struggling bit with the logic of making the break timer.
 
 **Link to Work:** <a href="https://github.com/corpsefin/Pomodoro_DA">Pomodoro</a>
 
