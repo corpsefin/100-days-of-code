@@ -10,11 +10,11 @@
 
 ### Day 2: March 02, 2020
 
-**Today's Progress:**
+**Today's Progress:** Timer logic with short and long breaks, it is almost ready, needs bit of tweaking.
 
-**Thoughts:** 
+**Thoughts:** Bit rough day with brainfog and fighting against procrastination.
 
-**Link to Work:**
+**Link to Work:** <a href="https://github.com/corpsefin/Pomodoro_DA">Pomodoro</a>
 
 ### Day 3: March 03, 2020
 
