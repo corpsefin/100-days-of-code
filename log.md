@@ -18,19 +18,19 @@
 
 ### Day 3: March 03, 2020
 
-**Today's Progress:**
+**Today's Progress:** Tried to make function to delete the timers and came to a conclusion that I'll have to make the whole timer rendering again and also the whole timer..
 
-**Thoughts:** 
+**Thoughts:** Frustrating..
 
-**Link to Work:**
+**Link to Work:** <a href="https://github.com/corpsefin/Pomodoro_DA">Pomodoro</a>
 
 ### Day 4: March 04, 2020
 
-**Today's Progress:**
+**Today's Progress:** Apparently I didn't know how to use setInterval and clearInterval.. so I had to learn more about those.
 
-**Thoughts:** 
+**Thoughts:** Going steps back is always frustrating, also bit too tired to day for programming.
 
-**Link to Work:**
+**Link to Work:** <a href="https://github.com/corpsefin/Pomodoro_DA">Pomodoro</a>
 
 ### Day 5: March 05, 2020
 
