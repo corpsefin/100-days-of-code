@@ -34,35 +34,35 @@
 
 ### Day 5: March 05, 2020
 
-**Today's Progress:**
+**Today's Progress:** Started making the Pomodoro timer from the start, fighting with the logic of the timer..
 
-**Thoughts:** 
+**Thoughts:** Seems like I haven't learned the most basic logical thinking and it's what makes this project hard and keeps me feeling unmotivated.
 
-**Link to Work:**
+**Link to Work:** <a href="https://github.com/corpsefin/Pomodoro_DA">Pomodoro</a>
 
 ### Day 6: March 06, 2020
 
-**Today's Progress:**
+**Today's Progress:** Timer logic
 
-**Thoughts:** 
+**Thoughts:** Feels so hard to keep making this project..
 
-**Link to Work:**
+**Link to Work:** <a href="https://github.com/corpsefin/Pomodoro_DA">Pomodoro</a>
 
 ### Day 7: March 07, 2020
 
-**Today's Progress:**
+**Today's Progress:** Got the timer done, couple of thing still to be done, but the most important timer logic is done!
 
-**Thoughts:** 
+**Thoughts:** Feels good to get something done, this whole week has been a rollercoaster with motivation and fighting with procrastination. The most challenging thing for me is keeping myself away from procrastination.. that's the goal for the next week!
 
-**Link to Work:**
+**Link to Work:** <a href="https://github.com/corpsefin/Pomodoro_DA">Pomodoro</a>
 
 ### Day 8: March 08, 2020
 
-**Today's Progress:**
+**Today's Progress:** Taking a break from the project and continued the freecodecamp curriculum.
 
-**Thoughts:** 
+**Thoughts:** I have to do something else than the Pomodoro project.
 
-**Link to Work:**
+**Link to Work:** https://www.freecodecamp.org/learn
 
 ### Day 9: March 09, 2020
 
