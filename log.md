@@ -56,7 +56,8 @@
 
 **Link to Work:** <a href="https://github.com/corpsefin/Pomodoro_DA">Pomodoro</a>
 
-#### Summary of the week #### It started good, but I very quickly noticed that I'm starting to procrastinate again very easily when bumping in to problems with the project. Also not planning what to do, when to do and how to do makes the project progression much much harder, but overall everything comes to the hard part of staying in the "discomfort zone". Plans for the next week is to exclude everything that I would normally do when feeling discomfort (YouTube, Twitch, games etc.) 'till 4pm!
+#### Summary of the week
+It started good, but I very quickly noticed that I'm starting to procrastinate again very easily when bumping in to problems with the project. Also not planning what to do, when to do and how to do makes the project progression much much harder, but overall everything comes to the hard part of staying in the "discomfort zone". Plans for the next week is to exclude everything that I would normally do when feeling discomfort (YouTube, Twitch, games etc.) 'till 4pm!
 
 ### Day 8: March 08, 2020
 
